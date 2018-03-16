@@ -6,10 +6,10 @@
 ## 구조
 
 ### 준지도 학습 알고리즘
->
+>Update later
 
-## 문서
->docs
+### 문서
+>Update later
 
 ## License
 >Update later
